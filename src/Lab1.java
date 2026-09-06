@@ -1,7 +1,7 @@
 public class Lab1 {
     public static void main(String[] args)
     {
-        System.out.println("Hello World!!");
-        System.out.println("This is Alif");
+        int a=72;
+        System.out.println(a);
     }
 }
