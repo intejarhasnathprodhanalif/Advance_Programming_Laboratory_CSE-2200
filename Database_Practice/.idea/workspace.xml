@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b3fdbed7-da66-4ecf-a2f0-37fb6ae4dfb4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/data_source_mapping.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/database_practice/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/database_practice/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/database_practice/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/database_practice/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/database_practice/StudentApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/database_practice/StudentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/database_practice/StudentFormController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/database_practice/StudentListController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/database_practice/StudentForm.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/database_practice/StudentList.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseLocalColorSettings">
+    <colors>
+      <entry key="e5838c60-2b14-45d8-8e59-b5884bb2c2f2" value="" />
+    </colors>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="9.331173722152354E-27" />
+      <entry key="MS500" value="6.222820231163098E-6" />
+      <entry key="S2" value="0.04994555158798926" />
+      <entry key="S5" value="0.3015773533407439" />
+      <entry key="S10" value="0.5491605897556232" />
+      <entry key="S30" value="0.818904242214252" />
+      <entry key="S60" value="0.9049355750379011" />
+      <entry key="M2" value="0.9534256766470484" />
+      <entry key="M5" value="1.1841037824289444" />
+      <entry key="M10" value="2.2657584884829443" />
+      <entry key="M15" value="3.734004037457126" />
+      <entry key="M30" value="11.87582667251782" />
+      <entry key="H1" value="41.85330770106106" />
+      <entry key="H2" value="93.41613267983026" />
+      <entry key="H4" value="143.64367287498266" />
+      <entry key="D1" value="207.83783168094314" />
+      <entry key="W1" value="221.61217970381605" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.000000005916631" />
+      <entry key="M2" value="1.0000770830804475" />
+      <entry key="M5" value="1.0250203089117658" />
+      <entry key="M10" value="1.2266328554951644" />
+      <entry key="M15" value="1.5675762772580821" />
+      <entry key="M30" value="3.4841590333976344" />
+      <entry key="H1" value="9.758604222299429" />
+      <entry key="H2" value="19.813484139718124" />
+      <entry key="H4" value="29.26103665104347" />
+      <entry key="D1" value="41.063353304604675" />
+      <entry key="W1" value="43.56688895724908" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="4.984168539889573E-9" />
+      <entry key="MS500" value="0.02185639424208802" />
+      <entry key="S2" value="0.4261652341701705" />
+      <entry key="S5" value="0.9627878111295458" />
+      <entry key="S10" value="1.3556380421513259" />
+      <entry key="S30" value="1.7473515074230825" />
+      <entry key="S60" value="1.8681354417997795" />
+      <entry key="M2" value="1.934819864051331" />
+      <entry key="M5" value="2.201064921740309" />
+      <entry key="M10" value="3.486774594901461" />
+      <entry key="M15" value="5.296285848776671" />
+      <entry key="M30" value="15.353075643025411" />
+      <entry key="H1" value="51.60091003415871" />
+      <entry key="H2" value="113.21777757350789" />
+      <entry key="H4" value="172.8957429674247" />
+      <entry key="D1" value="248.89904716622524" />
+      <entry key="W1" value="265.1787436248859" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3Jh9hFnTygu9LbHAydzLYM4HQ6h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Launcher.executor": "Run",
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlite"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example.database_practice" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3fdbed7-da66-4ecf-a2f0-37fb6ae4dfb4" name="Changes" comment="" />
+      <created>1790102552263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790102552263</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
