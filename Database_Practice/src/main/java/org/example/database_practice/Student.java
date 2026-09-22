@@ -18,3 +18,5 @@ public class Student {
         return name;
     }
 }
+
+//GUI na dile eta lagbe na

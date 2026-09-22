@@ -102,6 +102,6 @@ public class StudentDAO {
             }
         }
         return list;
-    }
+    }//GUI na dile ei method lagbe na
 
 }
