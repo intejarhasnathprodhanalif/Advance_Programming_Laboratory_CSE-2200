@@ -1,0 +1,36 @@
+Tasks:
+- Create a Student blueprint class
+- Parse students.json using Jackson
+- Create an SQLite database with students(id PK, name) and enrollments(student_id, course_code) tables
+- Insert parsed students
+
+Build a console menu:
+1. Enter Student Roll:
+2. Enter Student Name:
+
+students.json:
+[
+{"id" : 101, "name": "Ayesha Karim"},
+{"id" : 102, "name": "Rahim Uddin"},
+{"id" : 103, "name": "Ayesha Karim"}
+]
+
+Reading that exact student from the database or all students whose name matches.
+
+Constraints:
+Student ID must exist in students
+
+Sample Run:
+Choose an option: 2
+Enter Student Name: Ayesha Karim
+
+Output:
+101, 102
+
+
+Sample Run:
+Choose an option: 1
+Enter Student Roll: 101
+
+Output:
+Student Name: Ayesha Karim, Roll: 101

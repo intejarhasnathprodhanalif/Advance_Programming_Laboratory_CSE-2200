@@ -11,20 +11,30 @@ public class Database {
 
     public static Connection connect() throws SQLException
     {
-        return DriverManager.getConnection(URL);
+        Connection conn = DriverManager.getConnection(URL);
+        try (Statement stmt = conn.createStatement()) {
+            stmt.execute("PRAGMA foreign_keys = ON");
+        }
+        return conn;
     }
 
     public static void initializeDatabase()
     {
-        String sql = "CREATE TABLE IF NOT EXISTS DataList (" +
+        String studentsSql = "CREATE TABLE IF NOT EXISTS DataList (" +
                 "roll INTEGER PRIMARY KEY," +
-                "name TEXT NOT NULL)"; // EXISTS er pore okhane table er nam dite hobe
+                "name TEXT NOT NULL)";
+
+        String enrollmentsSql = "CREATE TABLE IF NOT EXISTS enrollments (" +
+                "student_id INTEGER, " +
+                "course_code TEXT, " +
+                "FOREIGN KEY (student_id) REFERENCES DataList(roll))";
 
         try(Connection conn = connect();
             Statement stmt = conn.createStatement())
         {
-            stmt.execute(sql);
-            System.out.println("org.example.database_practice.Database Ready");
+            stmt.execute(studentsSql);
+            stmt.execute(enrollmentsSql);
+            System.out.println("Database Ready");
         }
 
         catch(SQLException e)
